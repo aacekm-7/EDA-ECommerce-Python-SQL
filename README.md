@@ -27,7 +27,7 @@ Archivo	Descripción
 - Fuente: Kaggle 
 - [Dataset](https://www.kaggle.com/datasets/benroshan/ecommerce-data)
 
-## 🛠️ Herramientas
+## 🛠️ **Herramientas**
 
 Herramienta	Uso
 * `Python 3`	Lenguaje principal
@@ -35,7 +35,7 @@ Herramienta	Uso
 * `DuckDB`	Consultas SQL sobre DataFrames
 * `Seaborn / Matplotlib`	Visualizaciones
   
-## 🔍 Contenido del análisis
+## 🔍 **Contenido del análisis**
 
 - EDA — Validación de nulos, duplicados, tipos de datos y estadísticos descriptivos
 - Limpieza — Estandarización de columnas, conversión de fechas, tratamiento de outliers con método IQR
@@ -44,7 +44,7 @@ Herramienta	Uso
 - Análisis de Clientes — Top 10 clientes por ingreso con recomendaciones de retención
 - Análisis Geográfico — Ventas y profit por estado, estados críticos, ciudades con más órdenes
 
-📈 Hallazgos principales
+📈 **Hallazgos principales**
 
 - 1	Clothing genera el 84% del profit total	Categoría clave — priorizar inventario y marketing
 - 2	Saree: alto volumen con profit negativo (-$1,190)	Revisar estructura de costos o precio de venta
@@ -55,7 +55,7 @@ Herramienta	Uso
 - 7	Tamil Nadu: mayor pérdida geográfica	Auditar operaciones y precios en esa región
 - 8	Madhya Pradesh lidera en ventas	Reforzar logística y disponibilidad
 
-💡 Recomendaciones
+💡 **Recomendaciones**
 
 - Aplicar descuentos estratégicos al Top 10 clientes en sub-categorías con margen negativo
 - Auditar costos de Saree — alto volumen con pérdida sostenida
